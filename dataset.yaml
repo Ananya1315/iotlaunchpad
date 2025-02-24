@@ -1,0 +1,5 @@
+train: C:/Users/p_sam/OneDrive/Desktop/snuc/dataset/images/train
+val: C:/Users/p_sam/OneDrive/Desktop/snuc/dataset/images/val
+
+nc: 3
+names: ['arduino', 'led', 'temp']  # Add your class names here
